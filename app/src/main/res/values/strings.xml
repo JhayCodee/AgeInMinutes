@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Age In Minutes</string>
+    <string name="calcula_tu">CALCULA TU</string>
+    <string name="edad">EDAD</string>
+    <string name="en_minutos">EN MINUTOS</string>
+    <string name="fecha_de_nacimeinto">Fecha de nacimiento</string>
+    <string name="fecha_seleccionada">Fecha seleccionada</string>
+    <string name="tu_edad_en_minutos">Tu edad en minutos</string>
+</resources>
